@@ -130,6 +130,16 @@ textarea {
   margin-top: 16px;
 }
 
+.project-link {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.project-link:hover {
+  color: var(--accent-dark);
+}
+
 .burger {
   display: none;
   border: none;
